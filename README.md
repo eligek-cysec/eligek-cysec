@@ -1,21 +1,142 @@
-# 💫 About Me:
-Estudiante de Ingeniería en Telemática enfocado en la administración de infraestructura de TI y la seguridad informática. Con experiencia práctica en la gestión de entornos de servidores híbridos, virtualización y despliegue de herramientas de monitoreo y auditoría de seguridad de código abierto. Comprometido con el diseño ordenado, la documentación estructurada y el fortalecimiento de la resiliencia tecnológica institucional.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elias-blandon-202602n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthonyaltamira6@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=izaki-1902&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=izaki-1902&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=izaki-1902&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<p align="center">
+  <img src="./assets/eligek-github-cover.png" alt="Eligek GitHub Cover" width="100%" />
+</p>
+<h1 align="center">Hi, I'm Eligek 🛡️</h1>
+<h3 align="center">
+IT Infrastructure • Cybersecurity • Linux • Servers • Monitoring
+</h3>
+<p align="center">
+  <strong>Tecnología, Linux y ciberseguridad explicados con claridad.</strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/elias-blandon-202602n">
+    <img src="https://img.shields.io/badge/LinkedIn-232E33?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@eligek">
+    <img src="https://img.shields.io/badge/YouTube-617736?style=for-the-badge\&logo=youtube\&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:anthonyaltamira6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-101719?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/>
+  </a>
+</p>
 ---
-[![](https://komarev.com/ghpvc/?username=izaki-1902&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧠 About Me
+Estudiante de Ingeniería en Telemática enfocado en infraestructura TI, servidores y ciberseguridad operativa.
+Me interesa construir entornos tecnológicos ordenados, seguros, documentados y resilientes, combinando administración de servidores, virtualización, monitoreo, automatización y buenas prácticas de seguridad.
+Actualmente estoy fortaleciendo mi perfil en:
+Administración de servidores Windows/Linux
+Virtualización e infraestructura híbrida
+Monitoreo, observabilidad y gestión de servicios TI
+Hardening, auditoría y seguridad operativa
+Automatización con PowerShell, Bash y Python
+Documentación técnica clara y mantenible
+---
+🎯 Technical Focus
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/eligek-isotipo.png" width="70" alt="Infrastructure"/><br>
+      <strong>Infrastructure</strong><br>
+      Windows Server, Linux Server, VMware, cloud and hybrid environments.
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/eligek-isotipo.png" width="70" alt="Cybersecurity"/><br>
+      <strong>Cybersecurity</strong><br>
+      Hardening, monitoring, audit practices and secure operations.
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/eligek-isotipo.png" width="70" alt="Documentation"/><br>
+      <strong>Documentation</strong><br>
+      Technical notes, procedures, diagrams, checklists and knowledge base.
+    </td>
+  </tr>
+</table>
+---
+💻 Tech Stack
+🖥️ Systems & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows%20Server-232E33?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-617736?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCF8F4?style=for-the-badge&logo=linux&logoColor=101719)
+![VMware](https://img.shields.io/badge/VMware-232E33?style=for-the-badge&logo=vmware&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-617736?style=for-the-badge&logo=openstack&logoColor=white)
+🔐 Security, Monitoring & Operations
+![Wazuh](https://img.shields.io/badge/Wazuh-232E33?style=for-the-badge&logo=wazuh&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-617736?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-232E33?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-617736?style=for-the-badge&logo=prometheus&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-232E33?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-617736?style=for-the-badge&logo=cisco&logoColor=white)
+⚙️ Scripting, Automation & DevOps
+![PowerShell](https://img.shields.io/badge/PowerShell-232E33?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-617736?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-232E33?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-617736?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-232E33?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-617736?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-232E33?style=for-the-badge&logo=git&logoColor=white)
+🗄️ Databases, Web & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-232E33?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-617736?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-232E33?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-617736?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-232E33?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-617736?style=for-the-badge&logo=nginx&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-232E33?style=for-the-badge&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-617736?style=for-the-badge&logo=notion&logoColor=white)
+---
+📚 Currently Learning
+```txt
+Git \& GitHub        → version control and technical documentation
+Server Hardening   → Windows/Linux security baselines
+Monitoring         → infrastructure visibility and alerting
+Cybersecurity Ops  → audit, detection and operational security
+Automation         → PowerShell, Bash, Python and Ansible
+Networking         → CCNA-oriented fundamentals
+```
+---
+📊 GitHub Dashboard
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eligek-cysec\&theme=dark\&bg\_color=101719\&title\_color=8D9D6D\&text\_color=FCF8F4\&icon\_color=617736\&hide\_border=true\&include\_all\_commits=true\&count\_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eligek-cysec\&theme=dark\&bg\_color=101719\&title\_color=8D9D6D\&text\_color=FCF8F4\&hide\_border=true\&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eligek-cysec\&theme=dark\&background=101719\&ring=617736\&fire=8D9D6D\&currStreakLabel=FCF8F4\&sideLabels=FCF8F4\&dates=A1A7A1\&hide\_border=true" alt="GitHub Streak" />
+</p>
+---
+🎥 Eligek Content Path
+<table>
+  <tr>
+    <td><strong>Linux \& Terminal</strong></td>
+    <td>Comandos, shell, administración básica y buenas prácticas.</td>
+  </tr>
+  <tr>
+    <td><strong>Cybersecurity</strong></td>
+    <td>Hardening, auditoría, monitoreo, seguridad operativa y laboratorios.</td>
+  </tr>
+  <tr>
+    <td><strong>Servers \& Infrastructure</strong></td>
+    <td>Windows Server, Linux Server, virtualización, documentación y servicios.</td>
+  </tr>
+  <tr>
+    <td><strong>Technical Growth</strong></td>
+    <td>Ruta de aprendizaje, certificaciones, herramientas y experiencia real.</td>
+  </tr>
+</table>
+---
+🎧 Favorite Quote
+<p align="center">
+  <em>“Live a life you will remember.”</em><br>
+  <strong>Avicii</strong>
+</p>
+---
+🚀 Long-Term Goal
+Build a professional technical profile focused on secure, documented and resilient IT infrastructure, combining server administration, cybersecurity operations, monitoring, automation and continuous learning.
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eligek-cysec\&style=for-the-badge\&color=617736" alt="Profile views" />
+</p>
+<p align="center">
+  <img src="./assets/eligek-watermark-white.png" width="80" alt="Eligek watermark"/>
+</p>
