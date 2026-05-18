@@ -149,27 +149,11 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
 
 ---
 
-<h2>📊 Panel de control de GitHub</h2>
+<h2>📊 Actividad en GitHub</h2>
 
 <p align="center">
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=eligek-cysec&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Estadísticas de GitHub"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eligek-cysec&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Idiomas principales"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=eligek-cysec&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=eligek-cysec&amp;theme=dark&amp;background=101719&amp;ring=617736&amp;fire=8D9D6D&amp;currStreakLabel=FCF8F4&amp;sideLabels=FCF8F4&amp;dates=A1A7A1&amp;hide_border=true"
     alt="Racha de contribuciones"
   />
 </p>
