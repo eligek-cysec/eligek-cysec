@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="./assets/eligek-github-cover.png" alt="Eligek GitHub Cover" width="100%" />
+  <img src="./assets/eligek-banner-minimal.png" alt="Eligek Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi, I'm Eligek 🛡️</h1>
-
-<h3 align="center">
-  IT Infrastructure • Cybersecurity • Linux • Servers • Monitoring
-</h3>
-
+<h1 align="center">Hola, soy Eligek 🛡️</h1>
 <p align="center">
-  <strong>Tecnología, Linux y ciberseguridad explicados con claridad.</strong>
+  <strong>Infraestructura TI • Ciberseguridad • Linux • Servidores • Monitorización</strong>
 </p>
-
+<p align="center">
+  Tecnología, Linux y ciberseguridad explicados con claridad.
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/elias-blandon-202602n">
     <img src="https://img.shields.io/badge/LinkedIn-232E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,59 +19,32 @@
     <img src="https://img.shields.io/badge/Email-101719?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 ---
-
-<h2>🧠 About Me</h2>
-
-<p>
+🧠 Sobre mí
 Estudiante de Ingeniería en Telemática enfocado en infraestructura TI, servidores y ciberseguridad operativa.
-</p>
-
-<p>
 Me interesa construir entornos tecnológicos ordenados, seguros, documentados y resilientes, combinando administración de servidores, virtualización, monitoreo, automatización y buenas prácticas de seguridad.
-</p>
-
-<p>
-Actualmente estoy fortaleciendo mi perfil en administración de servidores Windows/Linux, virtualización, monitoreo, hardening, auditoría, documentación técnica y automatización.
-</p>
-
+Actualmente fortalezco mi perfil en administración de servidores Windows/Linux, virtualización, hardening, monitoreo, auditoría, documentación técnica y automatización.
 ---
-
-<h2>🎯 Technical Focus</h2>
-
+🎯 Enfoque técnico
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Infrastructure"/>
-      <br>
-      <strong>Infrastructure</strong>
-      <br>
-      Windows Server, Linux Server, VMware and hybrid environments.
+      <strong>Infraestructura</strong><br>
+      Windows Server, Linux Server, VMware y entornos híbridos.
     </td>
     <td align="center" width="33%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Cybersecurity"/>
-      <br>
-      <strong>Cybersecurity</strong>
-      <br>
-      Hardening, monitoring, audit practices and secure operations.
+      <strong>Ciberseguridad</strong><br>
+      Hardening, monitoreo, auditoría y seguridad operativa.
     </td>
     <td align="center" width="33%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Documentation"/>
-      <br>
-      <strong>Documentation</strong>
-      <br>
-      Technical notes, procedures, diagrams, checklists and knowledge base.
+      <strong>Documentación</strong><br>
+      Procedimientos, bitácoras, checklists y base de conocimiento.
     </td>
   </tr>
 </table>
-
 ---
-
-<h2>💻 Tech Stack</h2>
-
-<h3>🖥️ Systems & Infrastructure</h3>
-
+💻 Stack técnico
+Sistemas, servidores e infraestructura
 <p>
   <img src="https://img.shields.io/badge/Windows%20Server-232E33?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server-617736?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -83,9 +52,7 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
   <img src="https://img.shields.io/badge/VMware-232E33?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenStack-617736?style=for-the-badge&logo=openstack&logoColor=white" />
 </p>
-
-<h3>🔐 Security, Monitoring & Operations</h3>
-
+Seguridad, monitoreo y operaciones
 <p>
   <img src="https://img.shields.io/badge/Wazuh-232E33?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Zabbix-617736?style=for-the-badge&logo=zabbix&logoColor=white" />
@@ -94,9 +61,7 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
   <img src="https://img.shields.io/badge/Bitwarden-232E33?style=for-the-badge&logo=bitwarden&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-617736?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
-
-<h3>⚙️ Scripting, Automation & DevOps</h3>
-
+Automatización, DevOps y herramientas
 <p>
   <img src="https://img.shields.io/badge/PowerShell-232E33?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-617736?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -106,9 +71,7 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
   <img src="https://img.shields.io/badge/Kubernetes-617736?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-232E33?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<h3>🗄️ Databases, Web & Tools</h3>
-
+Bases de datos, web y documentación
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-232E33?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-617736?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -119,92 +82,65 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
   <img src="https://img.shields.io/badge/Markdown-232E33?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-617736?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
-
 ---
-
-<h2>📚 Currently Learning</h2>
-
+📚 Actualmente aprendiendo
 <table>
   <tr>
     <td><strong>Git & GitHub</strong></td>
-    <td>Version control and technical documentation.</td>
+    <td>Control de versiones, repositorios y documentación técnica.</td>
   </tr>
   <tr>
-    <td><strong>Server Hardening</strong></td>
-    <td>Windows/Linux security baselines and operational security.</td>
+    <td><strong>Hardening</strong></td>
+    <td>Líneas base de seguridad para servidores Windows/Linux.</td>
   </tr>
   <tr>
-    <td><strong>Monitoring</strong></td>
-    <td>Infrastructure visibility, alerting and observability.</td>
+    <td><strong>Monitoreo</strong></td>
+    <td>Visibilidad, alertamiento y observabilidad de infraestructura.</td>
   </tr>
   <tr>
-    <td><strong>Automation</strong></td>
-    <td>PowerShell, Bash, Python and Ansible for IT administration.</td>
+    <td><strong>Automatización</strong></td>
+    <td>PowerShell, Bash, Python y Ansible para administración TI.</td>
   </tr>
   <tr>
-    <td><strong>Networking</strong></td>
-    <td>CCNA-oriented fundamentals and infrastructure networking.</td>
+    <td><strong>Redes</strong></td>
+    <td>Fundamentos orientados a CCNA e infraestructura real.</td>
   </tr>
 </table>
-
 ---
-
-<h2>📊 Actividad en GitHub</h2>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=eligek-cysec&amp;theme=dark&amp;background=101719&amp;ring=617736&amp;fire=8D9D6D&amp;currStreakLabel=FCF8F4&amp;sideLabels=FCF8F4&amp;dates=A1A7A1&amp;hide_border=true"
-    alt="Racha de contribuciones"
-  />
-</p>
-
----
-
-<h2>🎥 Eligek Content Path</h2>
-
+🎥 Ruta de contenido
 <table>
   <tr>
     <td><strong>Linux & Terminal</strong></td>
     <td>Comandos, shell, administración básica y buenas prácticas.</td>
   </tr>
   <tr>
-    <td><strong>Cybersecurity</strong></td>
+    <td><strong>Ciberseguridad</strong></td>
     <td>Hardening, auditoría, monitoreo, seguridad operativa y laboratorios.</td>
   </tr>
   <tr>
-    <td><strong>Servers & Infrastructure</strong></td>
-    <td>Windows Server, Linux Server, virtualización, documentación y servicios.</td>
+    <td><strong>Servidores & Infraestructura</strong></td>
+    <td>Windows Server, Linux Server, virtualización, servicios y documentación.</td>
   </tr>
   <tr>
-    <td><strong>Technical Growth</strong></td>
+    <td><strong>Crecimiento técnico</strong></td>
     <td>Ruta de aprendizaje, certificaciones, herramientas y experiencia real.</td>
   </tr>
 </table>
-
 ---
-
-<h2>🎧 Favorite Quote</h2>
-
+📊 Actividad
 <p align="center">
-  <em>“Live a life you will remember.”</em>
-  <br>
+  <img src="https://streak-stats.demolab.com?user=eligek-cysec&theme=dark&background=101719&ring=617736&fire=8D9D6D&currStreakLabel=FCF8F4&sideLabels=FCF8F4&dates=A1A7A1&hide_border=true" alt="Racha de contribuciones" />
+</p>
+---
+🎧 Frase favorita
+<p align="center">
+  <em>“Live a life you will remember.”</em><br>
   <strong>Avicii</strong>
 </p>
-
 ---
-
-<h2>🚀 Long-Term Goal</h2>
-
-<p>
-Build a professional technical profile focused on secure, documented and resilient IT infrastructure, combining server administration, cybersecurity operations, monitoring, automation and continuous learning.
-</p>
-
+🚀 Meta profesional
+Construir un perfil técnico enfocado en infraestructura TI segura, documentada y resiliente, combinando administración de servidores, ciberseguridad operativa, monitoreo, automatización y aprendizaje continuo.
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eligek-cysec&style=for-the-badge&color=617736" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="./assets/eligek-watermark-white.png" width="80" alt="Eligek watermark" />
 </p>
