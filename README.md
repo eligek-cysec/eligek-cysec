@@ -149,14 +149,12 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
 
 ---
 
-<h2>📊 GitHub Dashboard</h2>
-
 <h2>📊 Panel de control de GitHub</h2>
 
 <p align="center">
   <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=eligek-cysec&amp;show_icons=true&amp;theme=dark&amp;bg_color=101719&amp;title_color=8D9D6D&amp;text_color=FCF8F4&amp;icon_color=617736&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=eligek-cysec&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
     alt="Estadísticas de GitHub"
   />
 </p>
@@ -164,14 +162,14 @@ Actualmente estoy fortaleciendo mi perfil en administración de servidores Windo
 <p align="center">
   <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eligek-cysec&amp;theme=dark&amp;bg_color=101719&amp;title_color=8D9D6D&amp;text_color=FCF8F4&amp;hide_border=true&amp;layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eligek-cysec&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
     alt="Idiomas principales"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=eligek-cysec&amp;theme=dark&amp;background=101719&amp;ring=617736&amp;fire=8D9D6D&amp;currStreakLabel=FCF8F4&amp;sideLabels=FCF8F4&amp;dates=A1A7A1&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=eligek-cysec&amp;theme=tokyonight&amp;hide_border=true"
     alt="Racha de contribuciones"
   />
 </p>
