@@ -1,0 +1,57 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="520" rx="28" fill="#101719"/>
+  <rect x="28" y="28" width="1544" height="464" rx="22" fill="#101719" stroke="#8D9D6D" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M70 90 H210 L240 60 H330" stroke="#617736" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="335" cy="60" r="5" stroke="#617736" stroke-width="2"/>
+  <path d="M1530 90 H1390 L1360 60 H1270" stroke="#617736" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="1265" cy="60" r="5" stroke="#617736" stroke-width="2"/>
+  <text x="800" y="92" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="8">TECHNICAL ACTIVITY</text>
+  <line x1="520" y1="130" x2="1080" y2="130" stroke="#8D9D6D" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="742" y="124" width="116" height="12" rx="6" fill="#617736"/>
+
+  <g transform="translate(80 170)">
+    <rect width="335" height="240" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="167" cy="72" r="48" stroke="#617736" stroke-width="4"/>
+    <path d="M150 48 h35 M158 48 v55 c0 18-18 28-31 16 l-3-3 c-5-5-3-13 4-15 16-5 18-19 18-33 V48" stroke="#FCF8F4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="166" cy="86" r="4" fill="#8D9D6D"/><circle cx="183" cy="101" r="4" fill="#8D9D6D"/><circle cx="153" cy="108" r="4" fill="#617736"/>
+    <text x="167" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Learning Labs</text>
+    <rect x="122" y="168" width="90" height="6" rx="3" fill="#617736"/>
+    <text x="167" y="206" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">Linux, cybersecurity and</text>
+    <text x="167" y="232" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">infrastructure practice</text>
+  </g>
+
+  <g transform="translate(450 170)">
+    <rect width="335" height="240" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="167" cy="72" r="48" stroke="#617736" stroke-width="4"/>
+    <path d="M120 48 c25-10 45 2 47 8 c2-6 22-18 47-8 v74 c-25-10-45 2-47 8 c-2-6-22-18-47-8z" stroke="#FCF8F4" stroke-width="5" fill="none" stroke-linejoin="round"/>
+    <path d="M194 48 v42 l14-10 l14 10 V48" fill="#8D9D6D"/>
+    <text x="167" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Documentation</text>
+    <rect x="122" y="168" width="90" height="6" rx="3" fill="#617736"/>
+    <text x="167" y="206" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">Notes, procedures and</text>
+    <text x="167" y="232" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">technical references</text>
+  </g>
+
+  <g transform="translate(820 170)">
+    <rect width="335" height="240" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="167" cy="72" r="48" stroke="#617736" stroke-width="4"/>
+    <path d="M167 30 l48 20 v38 c0 36-25 58-48 70 c-23-12-48-34-48-70 V50z" stroke="#617736" stroke-width="5" fill="none" stroke-linejoin="round"/>
+    <path d="M132 86 h25 l11-28 l17 54 l10-26 h25" stroke="#FCF8F4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="167" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Monitoring</text>
+    <rect x="122" y="168" width="90" height="6" rx="3" fill="#617736"/>
+    <text x="167" y="206" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">Visibility, alerts and</text>
+    <text x="167" y="232" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">operational follow-up</text>
+  </g>
+
+  <g transform="translate(1190 170)">
+    <rect width="335" height="240" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="167" cy="72" r="48" stroke="#617736" stroke-width="4" stroke-dasharray="160 30"/>
+    <path d="M167 114 V76 M167 76 c-30-24-52-5-52-5 c20 36 52 31 52 31 M167 76 c30-24 52-5 52-5 c-20 36-52 31-52 31" stroke="#FCF8F4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="167" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Continuous Growth</text>
+    <rect x="122" y="168" width="90" height="6" rx="3" fill="#617736"/>
+    <text x="167" y="206" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">Hands-on learning and</text>
+    <text x="167" y="232" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="21">iterative improvement</text>
+  </g>
+
+  <text x="800" y="462" text-anchor="middle" fill="#617736" font-family="Segoe UI, Arial" font-size="34" font-weight="800" letter-spacing="12">ELIGEK</text>
+  <text x="800" y="488" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="16" letter-spacing="10">SISTEMAS • SEGURIDAD • APRENDIZAJE</text>
+</svg>
