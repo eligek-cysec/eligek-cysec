@@ -61,28 +61,28 @@ Focus:
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Infrastructure" />
+      <img src="./assets/core-infrastructure.svg" width="76" alt="Infrastructure" />
       <br />
       <strong>Infrastructure</strong>
       <br />
       <sub>Windows Server, Linux, VMware, Proxmox, servicios y operación técnica.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Microsoft Cloud" />
+      <img src="./assets/core-cloud.svg" width="76" alt="Microsoft Cloud" />
       <br />
       <strong>Microsoft Cloud</strong>
       <br />
       <sub>Microsoft 365, Entra ID, Exchange, Teams, SharePoint y fundamentos de Azure.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Cybersecurity" />
+      <img src="./assets/core-cybersecurity.svg" width="76" alt="Cybersecurity" />
       <br />
       <strong>Cybersecurity</strong>
       <br />
       <sub>Hardening, análisis defensivo, seguridad básica, MITRE, ISO 27001 y labs.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/eligek-isotipo.png" width="65" alt="Monitoring" />
+      <img src="./assets/core-documentation.svg" width="76" alt="Monitoring and Documentation" />
       <br />
       <strong>Monitoring & Docs</strong>
       <br />
