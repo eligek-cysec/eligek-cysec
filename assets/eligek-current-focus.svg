@@ -1,0 +1,64 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="520" rx="28" fill="#101719"/>
+  <rect x="28" y="28" width="1544" height="464" rx="22" fill="#101719" stroke="#8D9D6D" stroke-opacity="0.45" stroke-width="2"/>
+  <circle cx="95" cy="88" r="26" stroke="#617736" stroke-width="4"/>
+  <path d="M95 48 v22 M95 106 v22 M55 88 h22 M113 88 h22" stroke="#617736" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="88" x2="188" y2="88" stroke="#617736" stroke-width="4"/>
+  <text x="220" y="108" fill="#FCF8F4" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">Current Focus</text>
+  <path d="M705 88 h105 l25 26 h125" stroke="#617736" stroke-width="2"/>
+  <circle cx="965" cy="114" r="5" stroke="#617736" stroke-width="2"/>
+  <circle cx="805" cy="88" r="5" stroke="#617736" stroke-width="2"/>
+  <rect x="220" y="136" width="132" height="7" rx="4" fill="#617736"/>
+  <path d="M1280 85 l68-40 l68 40 v88 c0 55-38 90-68 108 c-30-18-68-53-68-108z" stroke="#8D9D6D" stroke-opacity="0.12" stroke-width="8"/>
+
+  <g transform="translate(70 190)">
+    <rect width="350" height="230" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.50" stroke-width="2"/>
+    <circle cx="175" cy="75" r="48" stroke="#617736" stroke-width="4"/>
+    <path d="M132 78 c8-22 28-34 50-31 c21 3 38 20 41 41 h14 c16 0 29 13 29 29 c0 16-13 29-29 29 h-108 c-18 0-32-14-32-32 c0-17 13-31 30-32z" stroke="#FCF8F4" stroke-width="5" fill="none" stroke-linejoin="round"/>
+    <rect x="173" y="84" width="39" height="39" fill="#617736"/>
+    <path d="M192 84 v39 M173 104 h39" stroke="#101719" stroke-width="3"/>
+    <text x="175" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="31" font-weight="700">Microsoft Cloud</text>
+    <rect x="130" y="168" width="90" height="5" rx="3" fill="#617736"/>
+    <text x="175" y="210" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="20">M365, Entra ID and Azure fundamentals</text>
+  </g>
+
+  <g transform="translate(445 190)">
+    <rect width="350" height="230" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.50" stroke-width="2"/>
+    <circle cx="175" cy="75" r="48" stroke="#617736" stroke-width="4"/>
+    <rect x="140" y="39" width="62" height="24" rx="4" stroke="#FCF8F4" stroke-width="4"/>
+    <rect x="140" y="71" width="62" height="24" rx="4" stroke="#FCF8F4" stroke-width="4"/>
+    <rect x="140" y="103" width="62" height="24" rx="4" stroke="#FCF8F4" stroke-width="4"/>
+    <circle cx="153" cy="51" r="3" fill="#8D9D6D"/><circle cx="153" cy="83" r="3" fill="#8D9D6D"/><circle cx="153" cy="115" r="3" fill="#8D9D6D"/>
+    <path d="M218 108 c11 18 28 18 39 0 c-2 28-7 40-20 40 c-13 0-18-12-19-40z" fill="#FCF8F4"/>
+    <text x="175" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="31" font-weight="700">Servers &amp; Linux</text>
+    <rect x="130" y="168" width="90" height="5" rx="3" fill="#617736"/>
+    <text x="175" y="210" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="20">Windows Server, Linux and virtualization</text>
+  </g>
+
+  <g transform="translate(820 190)">
+    <rect width="350" height="230" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.50" stroke-width="2"/>
+    <circle cx="175" cy="75" r="48" stroke="#617736" stroke-width="4"/>
+    <path d="M175 32 l52 22 v40 c0 37-27 58-52 70 c-25-12-52-33-52-70 V54z" stroke="#FCF8F4" stroke-width="5" fill="none" stroke-linejoin="round"/>
+    <rect x="158" y="78" width="34" height="30" rx="4" fill="#617736"/>
+    <path d="M163 78 v-12 c0-10 8-18 18-18 c10 0 18 8 18 18 v12" stroke="#617736" stroke-width="5" stroke-linecap="round"/>
+    <text x="175" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="31" font-weight="700">Cybersecurity</text>
+    <rect x="130" y="168" width="90" height="5" rx="3" fill="#617736"/>
+    <text x="175" y="199" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="20">Hardening, defensive labs and</text>
+    <text x="175" y="224" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="20">detection basics</text>
+  </g>
+
+  <g transform="translate(1195 190)">
+    <rect width="350" height="230" rx="18" fill="#232E33" stroke="#8D9D6D" stroke-opacity="0.50" stroke-width="2"/>
+    <circle cx="175" cy="75" r="48" stroke="#617736" stroke-width="4"/>
+    <rect x="128" y="42" width="74" height="58" rx="6" stroke="#FCF8F4" stroke-width="5"/>
+    <path d="M145 64 l18 14 l-18 14 M172 92 h22" stroke="#FCF8F4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="220" cy="102" r="22" fill="#FCF8F4"/>
+    <circle cx="220" cy="102" r="9" fill="#232E33"/>
+    <text x="175" y="150" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="31" font-weight="700">Automation &amp; Tools</text>
+    <rect x="130" y="168" width="90" height="5" rx="3" fill="#617736"/>
+    <text x="175" y="210" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="20">GLPI, Zabbix, Git and scripting</text>
+  </g>
+
+  <text x="800" y="465" text-anchor="middle" fill="#617736" font-family="Segoe UI, Arial" font-size="30" font-weight="800" letter-spacing="10">ELIGEK</text>
+  <path d="M70 455 H520 M1080 455 H1530" stroke="#8D9D6D" stroke-opacity="0.25" stroke-width="2"/>
+</svg>
