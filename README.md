@@ -93,6 +93,14 @@ Focus:
 
 ---
 
+## Current Focus
+
+<p align="center">
+  <img src="./assets/eligek-current-focus.svg" alt="Eligek Current Focus" width="100%" />
+</p>
+
+---
+
 ## Tech Stack
 
 ### Sistemas, servidores e infraestructura
@@ -261,18 +269,10 @@ Current focus:
 
 ---
 
-## GitHub Activity
+## Technical Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eligek-cysec&theme=dark&bg_color=101719&title_color=8D9D6D&text_color=FCF8F4&icon_color=617736&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eligek-cysec&theme=dark&bg_color=101719&title_color=8D9D6D&text_color=FCF8F4&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eligek-cysec&theme=dark&background=101719&ring=617736&fire=8D9D6D&currStreakLabel=FCF8F4&sideLabels=FCF8F4&dates=A1A7A1&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/eligek-technical-activity.svg" alt="Eligek Technical Activity" width="100%" />
 </p>
 
 ---
