@@ -9,6 +9,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8D9D6D&center=true&vCenter=true&width=520&lines=Infraestructura+%2B+Cloud+Microsoft;Ciberseguridad+defensiva;Labs+%2B+Documentacion+tecnica" alt="Typing" />
+</p>
+
+<p align="center">
   Aprendiendo, construyendo y documentando infraestructura TI segura, monitoreada y bien organizada.
 </p>
 
@@ -31,23 +35,57 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#sobre-mi">
+    <img src="https://img.shields.io/badge/Sobre%20mi-232E33?style=for-the-badge" alt="Sobre mi" />
+  </a>
+  <a href="#core-areas">
+    <img src="https://img.shields.io/badge/Core%20Areas-101719?style=for-the-badge" alt="Core Areas" />
+  </a>
+  <a href="#current-focus">
+    <img src="https://img.shields.io/badge/Current%20Focus-617736?style=for-the-badge" alt="Current Focus" />
+  </a>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-8D9D6D?style=for-the-badge" alt="Tech Stack" />
+  </a>
+  <a href="#mas">
+    <img src="https://img.shields.io/badge/Mas-232E33?style=for-the-badge" alt="Mas" />
+  </a>
+</p>
+
 ---
 
 ## Sobre mi
 
-Soy estudiante de **Ingenieria en Telematica** en etapa final, construyendo un perfil junior enfocado en **infraestructura TI, administracion de servidores, nube Microsoft, Linux, monitoreo y ciberseguridad defensiva**.
+Soy estudiante de **Ingenieria en Telematica** en etapa final. Perfil junior en **infraestructura TI, cloud Microsoft y ciberseguridad defensiva**.
 
-**Eligek** es mi marca personal tecnica: un espacio para aprender, documentar y compartir contenido educativo sobre sistemas, seguridad, laboratorios y crecimiento tecnico.
+**Eligek** es mi marca personal tecnica para aprender, documentar y compartir laboratorios y notas aplicadas.
 
-**Lo que hago**
-- Diseno laboratorios y documentacion clara sobre servidores, nube y seguridad.
-- Practico hardening, monitoreo y operacion defensiva con enfoque educativo.
-- Comparto rutas de aprendizaje, notas tecnicas y runbooks.
+<p>
+  <img src="https://img.shields.io/badge/Focus-Labs%20%26%20Servers-101719?style=for-the-badge" alt="Focus Labs and Servers" />
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team-232E33?style=for-the-badge" alt="Focus Blue Team" />
+  <img src="https://img.shields.io/badge/Focus-Microsoft%20Cloud-617736?style=for-the-badge" alt="Focus Microsoft Cloud" />
+</p>
 
-**Ahora mismo**
-- Windows Server, Linux, VMware, Proxmox, Microsoft 365, Entra ID, Azure, Cloudflare.
-- Zabbix, GLPI, Grafana, inventario, tickets y documentacion operativa.
-- Fundamentos de ciberseguridad, MITRE, ISO 27001 y buenas practicas.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Labs</strong>
+      <br />
+      <sub>Hardening, servicios, logs y practicas defensivas.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Infra</strong>
+      <br />
+      <sub>Windows Server, Linux, VMware, Proxmox y cloud.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Docs</strong>
+      <br />
+      <sub>Runbooks, guias tecnicas y contenido educativo.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -180,10 +218,10 @@ Soy estudiante de **Ingenieria en Telematica** en etapa final, construyendo un p
 
 ---
 
-## En aprendizaje
+## Mas
 
 <details>
-  <summary><strong>Rutas y temas actuales</strong></summary>
+  <summary><strong>En aprendizaje</strong></summary>
   <table>
     <tr>
       <td width="30%"><strong>Cybersecurity Fundamentals</strong></td>
@@ -212,113 +250,109 @@ Soy estudiante de **Ingenieria en Telematica** en etapa final, construyendo un p
   </table>
 </details>
 
----
+<details>
+  <summary><strong>Cybersecurity learning path</strong></summary>
+  ```txt
+  Current focus:
+  01. Fundamentos de ciberseguridad
+  02. Seguridad en servidores Windows/Linux
+  03. Hardening y configuracion segura
+  04. Monitoreo, logs y deteccion basica
+  05. Pentesting educativo en laboratorios controlados
+  06. Analisis defensivo de comportamiento malicioso
+  07. Documentacion de hallazgos y procedimientos
+  ```
 
-## Cybersecurity Learning Path
+  > Todo laboratorio de seguridad debe realizarse en entornos propios, controlados y con fines educativos.
+</details>
 
-```txt
-Current focus:
-01. Fundamentos de ciberseguridad
-02. Seguridad en servidores Windows/Linux
-03. Hardening y configuración segura
-04. Monitoreo, logs y detección básica
-05. Pentesting educativo en laboratorios controlados
-06. Análisis defensivo de comportamiento malicioso
-07. Documentación de hallazgos y procedimientos
-```
+<details>
+  <summary><strong>Featured projects</strong></summary>
+  <table>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Focus</th>
+      <th align="left">Status</th>
+    </tr>
+    <tr>
+      <td><strong>Linux Server Hardening Lab</strong></td>
+      <td>Laboratorio de seguridad para reforzar configuracion, permisos, servicios, logs y buenas practicas en Linux.</td>
+      <td><code>Learning Lab</code></td>
+    </tr>
+    <tr>
+      <td><strong>Windows Server Administration Notes</strong></td>
+      <td>Notas tecnicas sobre administracion, servicios, seguridad basica y documentacion de entornos Windows Server.</td>
+      <td><code>Building</code></td>
+    </tr>
+    <tr>
+      <td><strong>Monitoring Stack Lab</strong></td>
+      <td>Practicas con monitoreo, dashboards, alertas, inventario y seguimiento operativo usando herramientas open source.</td>
+      <td><code>In progress</code></td>
+    </tr>
+    <tr>
+      <td><strong>Cybersecurity Fundamentals Notes</strong></td>
+      <td>Repositorio educativo con conceptos base, amenazas, controles, frameworks, laboratorios y apuntes de estudio.</td>
+      <td><code>Learning</code></td>
+    </tr>
+    <tr>
+      <td><strong>Malware Behavior Awareness Lab</strong></td>
+      <td>Laboratorio controlado para comprender comportamiento malicioso, indicadores, prevencion y analisis defensivo basico.</td>
+      <td><code>Planned</code></td>
+    </tr>
+    <tr>
+      <td><strong>Azure & Entra ID Fundamentals Lab</strong></td>
+      <td>Practicas de identidad, usuarios, grupos, acceso, seguridad basica y administracion inicial en nube Microsoft.</td>
+      <td><code>Roadmap</code></td>
+    </tr>
+  </table>
+</details>
 
-> Todo laboratorio de seguridad debe realizarse en entornos propios, controlados y con fines educativos.
+<details>
+  <summary><strong>Technical activity</strong></summary>
+  <p align="center">
+    <img src="./assets/eligek-technical-activity.svg" alt="Eligek Technical Activity" width="100%" />
+  </p>
+</details>
 
----
+<details>
+  <summary><strong>Content path</strong></summary>
+  <table>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Content Direction</th>
+    </tr>
+    <tr>
+      <td><strong>Ciberseguridad basica</strong></td>
+      <td>Conceptos fundamentales, amenazas comunes, buenas practicas, seguridad defensiva y explicacion clara para principiantes.</td>
+    </tr>
+    <tr>
+      <td><strong>Pentesting educativo</strong></td>
+      <td>Laboratorios controlados, metodologia, reconocimiento, analisis de vulnerabilidades y aprendizaje responsable.</td>
+    </tr>
+    <tr>
+      <td><strong>Linux & Terminal</strong></td>
+      <td>Comandos, administracion basica, servicios, permisos, logs, troubleshooting y habitos de terminal.</td>
+    </tr>
+    <tr>
+      <td><strong>Servers & Cloud</strong></td>
+      <td>Windows Server, Linux Server, Microsoft 365, Azure, Entra ID y servicios de infraestructura.</td>
+    </tr>
+    <tr>
+      <td><strong>Monitoring & Operations</strong></td>
+      <td>GLPI, Zabbix, Grafana, inventario, tickets, alertas, dashboards y documentacion operativa.</td>
+    </tr>
+    <tr>
+      <td><strong>Automation & Documentation</strong></td>
+      <td>Scripts, procedimientos, checklists, notas tecnicas, repositorios de aprendizaje y mejora continua.</td>
+    </tr>
+  </table>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Focus</th>
-    <th align="left">Status</th>
-  </tr>
-  <tr>
-    <td><strong>Linux Server Hardening Lab</strong></td>
-    <td>Laboratorio de seguridad para reforzar configuración, permisos, servicios, logs y buenas prácticas en Linux.</td>
-    <td><code>Learning Lab</code></td>
-  </tr>
-  <tr>
-    <td><strong>Windows Server Administration Notes</strong></td>
-    <td>Notas técnicas sobre administración, servicios, seguridad básica y documentación de entornos Windows Server.</td>
-    <td><code>Building</code></td>
-  </tr>
-  <tr>
-    <td><strong>Monitoring Stack Lab</strong></td>
-    <td>Prácticas con monitoreo, dashboards, alertas, inventario y seguimiento operativo usando herramientas open source.</td>
-    <td><code>In progress</code></td>
-  </tr>
-  <tr>
-    <td><strong>Cybersecurity Fundamentals Notes</strong></td>
-    <td>Repositorio educativo con conceptos base, amenazas, controles, frameworks, laboratorios y apuntes de estudio.</td>
-    <td><code>Learning</code></td>
-  </tr>
-  <tr>
-    <td><strong>Malware Behavior Awareness Lab</strong></td>
-    <td>Laboratorio controlado para comprender comportamiento malicioso, indicadores, prevención y análisis defensivo básico.</td>
-    <td><code>Planned</code></td>
-  </tr>
-  <tr>
-    <td><strong>Azure & Entra ID Fundamentals Lab</strong></td>
-    <td>Prácticas de identidad, usuarios, grupos, acceso, seguridad básica y administración inicial en nube Microsoft.</td>
-    <td><code>Roadmap</code></td>
-  </tr>
-</table>
-
----
-
-## Technical Activity
-
-<p align="center">
-  <img src="./assets/eligek-technical-activity.svg" alt="Eligek Technical Activity" width="100%" />
-</p>
-
----
-
-## Content Path
-
-<table>
-  <tr>
-    <th align="left">Area</th>
-    <th align="left">Content Direction</th>
-  </tr>
-  <tr>
-    <td><strong>Ciberseguridad básica</strong></td>
-    <td>Conceptos fundamentales, amenazas comunes, buenas prácticas, seguridad defensiva y explicación clara para principiantes.</td>
-  </tr>
-  <tr>
-    <td><strong>Pentesting educativo</strong></td>
-    <td>Laboratorios controlados, metodología, reconocimiento, análisis de vulnerabilidades y aprendizaje responsable.</td>
-  </tr>
-  <tr>
-    <td><strong>Linux & Terminal</strong></td>
-    <td>Comandos, administración básica, servicios, permisos, logs, troubleshooting y hábitos de terminal.</td>
-  </tr>
-  <tr>
-    <td><strong>Servers & Cloud</strong></td>
-    <td>Windows Server, Linux Server, Microsoft 365, Azure, Entra ID y servicios de infraestructura.</td>
-  </tr>
-  <tr>
-    <td><strong>Monitoring & Operations</strong></td>
-    <td>GLPI, Zabbix, Grafana, inventario, tickets, alertas, dashboards y documentación operativa.</td>
-  </tr>
-  <tr>
-    <td><strong>Automation & Documentation</strong></td>
-    <td>Scripts, procedimientos, checklists, notas técnicas, repositorios de aprendizaje y mejora continua.</td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.youtube.com/@eligek">
-    <img src="https://img.shields.io/badge/Follow%20the%20learning%20path-617736?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Learning Path" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.youtube.com/@eligek">
+      <img src="https://img.shields.io/badge/Follow%20the%20learning%20path-617736?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Learning Path" />
+    </a>
+  </p>
+</details>
 
 ---
 
@@ -331,10 +365,6 @@ Current focus:
 ---
 
 <h3 align="center">Sistemas • Seguridad • Aprendizaje</h3>
-
-<p align="center">
-  Focused on learning, documenting and sharing practical knowledge about infrastructure, cybersecurity, Linux, monitoring and technical growth.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eligek-cysec&style=for-the-badge&color=617736" alt="Profile views" />
