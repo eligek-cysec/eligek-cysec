@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"/><circle cx="128" cy="128" r="92" fill="none" stroke="#617736" stroke-width="10"/><rect x="78" y="50" width="92" height="140" rx="12" fill="#FCF8F4" stroke="#232E33" stroke-width="7"/><path d="M148 50v26h22" fill="none" stroke="#232E33" stroke-width="7"/><circle cx="108" cy="92" r="12" fill="#617736"/><line x1="128" y1="92" x2="152" y2="92" stroke="#232E33" stroke-width="7" stroke-linecap="round"/><circle cx="108" cy="124" r="12" fill="#8D9D6D"/><line x1="128" y1="124" x2="152" y2="124" stroke="#232E33" stroke-width="7" stroke-linecap="round"/><circle cx="108" cy="156" r="12" fill="#617736"/><line x1="128" y1="156" x2="152" y2="156" stroke="#232E33" stroke-width="7" stroke-linecap="round"/><circle cx="128" cy="210" r="16" fill="#617736" stroke="#FCF8F4" stroke-width="5"/><line x1="128" y1="190" x2="128" y2="194" stroke="#232E33" stroke-width="8"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+	<rect width="256" height="256" fill="none"/>
+	<circle cx="128" cy="128" r="92" fill="none" stroke="#617736" stroke-width="8"/>
+	<rect x="78" y="52" width="100" height="150" rx="12" fill="#FCF8F4" stroke="#232E33" stroke-width="5"/>
+	<path d="M150 52 V80 H178" fill="none" stroke="#232E33" stroke-width="5"/>
+
+	<circle cx="104" cy="98" r="8" fill="#617736"/>
+	<line x1="120" y1="98" x2="160" y2="98" stroke="#232E33" stroke-width="5" stroke-linecap="round"/>
+
+	<circle cx="104" cy="128" r="8" fill="#8D9D6D"/>
+	<line x1="120" y1="128" x2="160" y2="128" stroke="#232E33" stroke-width="5" stroke-linecap="round"/>
+
+	<circle cx="104" cy="158" r="8" fill="#617736"/>
+	<line x1="120" y1="158" x2="160" y2="158" stroke="#232E33" stroke-width="5" stroke-linecap="round"/>
+</svg>

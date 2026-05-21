@@ -1,0 +1,59 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1116"/>
+      <stop offset="1" stop-color="#141F27"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#617736" stop-opacity="0.0"/>
+      <stop offset="0.5" stop-color="#617736" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#617736" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1556" height="476" rx="22" stroke="#8D9D6D" stroke-opacity="0.35" stroke-width="2"/>
+
+  <path d="M60 90 H520" stroke="url(#glow)" stroke-width="3"/>
+  <path d="M1080 90 H1540" stroke="url(#glow)" stroke-width="3"/>
+  <path d="M60 440 H520" stroke="url(#glow)" stroke-width="3"/>
+  <path d="M1080 440 H1540" stroke="url(#glow)" stroke-width="3"/>
+
+  <g transform="translate(90 120)">
+    <circle cx="80" cy="80" r="78" fill="none" stroke="#617736" stroke-width="6"/>
+    <path d="M80 20 L130 40 V85 C130 120 105 142 80 156 C55 142 30 120 30 85 V40 L80 20 Z" fill="#232E33" stroke="#8D9D6D" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M80 52 L108 64 V86 C108 108 94 122 80 132 C66 122 52 108 52 86 V64 L80 52 Z" fill="none" stroke="#FCF8F4" stroke-width="3"/>
+    <path d="M48 95 H32 M128 95 H144 M62 120 L50 134 M98 120 L110 134" stroke="#8D9D6D" stroke-width="4" stroke-linecap="round"/>
+    <rect x="68" y="86" width="24" height="22" rx="4" fill="#617736"/>
+    <path d="M72 86 V78 C72 72 75 68 80 68 C85 68 88 72 88 78 V86" stroke="#617736" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <text x="320" y="210" fill="#FCF8F4" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="800">Eligek</text>
+  <text x="322" y="260" fill="#8D9D6D" font-family="Segoe UI, Arial, sans-serif" font-size="24" letter-spacing="6">SYSTEMS | SECURITY | LEARNING</text>
+
+  <g transform="translate(320 300)">
+    <rect x="0" y="0" width="160" height="36" rx="18" fill="#232E33" stroke="#617736" stroke-width="2"/>
+    <text x="80" y="24" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="16" font-weight="700">INFRA</text>
+
+    <rect x="176" y="0" width="160" height="36" rx="18" fill="#232E33" stroke="#617736" stroke-width="2"/>
+    <text x="256" y="24" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="16" font-weight="700">CLOUD</text>
+
+    <rect x="352" y="0" width="180" height="36" rx="18" fill="#232E33" stroke="#617736" stroke-width="2"/>
+    <text x="442" y="24" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="16" font-weight="700">BLUE TEAM</text>
+
+    <rect x="548" y="0" width="150" height="36" rx="18" fill="#232E33" stroke="#617736" stroke-width="2"/>
+    <text x="623" y="24" text-anchor="middle" fill="#FCF8F4" font-family="Segoe UI, Arial" font-size="16" font-weight="700">LABS</text>
+  </g>
+
+  <g opacity="0.65">
+    <circle cx="1200" cy="170" r="70" fill="none" stroke="#617736" stroke-width="4"/>
+    <path d="M1200 112 L1248 132 V170 C1248 202 1226 220 1200 234 C1174 220 1152 202 1152 170 V132 L1200 112 Z" stroke="#FCF8F4" stroke-width="4" fill="none" stroke-linejoin="round"/>
+    <path d="M1200 148 L1216 156 V170 C1216 186 1207 196 1200 202 C1193 196 1184 186 1184 170 V156 L1200 148 Z" stroke="#8D9D6D" stroke-width="3" fill="none"/>
+  </g>
+
+  <g opacity="0.35">
+    <path d="M980 360 H1510" stroke="#8D9D6D" stroke-width="2"/>
+    <path d="M980 380 H1430" stroke="#8D9D6D" stroke-width="2"/>
+    <path d="M980 400 H1360" stroke="#8D9D6D" stroke-width="2"/>
+  </g>
+</svg>

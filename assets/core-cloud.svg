@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"/><path d="M52 166c-24 0-42-18-42-40 0-20 15-36 35-39 8-26 31-43 59-43 22 0 42 12 53 30 6-2 12-3 18-3 25 0 46 18 50 42 18 6 31 22 31 41 0 23-20 42-44 42H52z" fill="none" stroke="#FCF8F4" stroke-width="8"/><rect x="92" y="82" width="72" height="72" rx="10" fill="#232E33" stroke="#8D9D6D" stroke-width="6"/><rect x="106" y="96" width="20" height="20" rx="4" fill="#617736"/><rect x="132" y="96" width="20" height="20" rx="4" fill="#FCF8F4"/><rect x="106" y="122" width="20" height="20" rx="4" fill="#FCF8F4"/><rect x="132" y="122" width="20" height="20" rx="4" fill="#617736"/><circle cx="128" cy="198" r="16" fill="#617736" stroke="#FCF8F4" stroke-width="5"/><path d="M128 154v28M80 198h96" stroke="#617736" stroke-width="8" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+	<rect width="256" height="256" fill="none"/>
+	<path d="M64 168c-22 0-40-18-40-40 0-19 14-34 32-37 7-24 28-40 52-40 20 0 38 10 48 26 5-2 10-3 16-3 22 0 40 16 44 37 16 5 28 19 28 37 0 22-18 40-40 40H64z" fill="none" stroke="#FCF8F4" stroke-width="6"/>
+	<rect x="92" y="84" width="72" height="60" rx="10" fill="#232E33" stroke="#8D9D6D" stroke-width="4"/>
+	<rect x="104" y="96" width="18" height="18" rx="4" fill="#617736"/>
+	<rect x="134" y="96" width="18" height="18" rx="4" fill="#FCF8F4"/>
+	<rect x="104" y="120" width="18" height="18" rx="4" fill="#FCF8F4"/>
+	<rect x="134" y="120" width="18" height="18" rx="4" fill="#617736"/>
+	<path d="M128 144 V172" stroke="#617736" stroke-width="6" stroke-linecap="round"/>
+	<circle cx="128" cy="184" r="14" fill="#617736" stroke="#FCF8F4" stroke-width="4"/>
+</svg>

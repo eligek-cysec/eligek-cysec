@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/eligek-github-cover.png" alt="Eligek GitHub Cover" width="100%" />
+  <img src="./assets/eligek-github-cover.svg" alt="Eligek GitHub Cover" width="100%" />
 </p>
 
 <h1 align="center">Elias — Eligek</h1>
