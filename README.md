@@ -33,26 +33,21 @@
 
 ---
 
-## Sobre mí
+## Sobre mi
 
-Soy estudiante de **Ingeniería en Telemática** en etapa final, construyendo un perfil junior orientado a **infraestructura TI, administración de servidores, nube Microsoft, Linux, monitoreo y ciberseguridad operativa**.
+Soy estudiante de **Ingenieria en Telematica** en etapa final, construyendo un perfil junior enfocado en **infraestructura TI, administracion de servidores, nube Microsoft, Linux, monitoreo y ciberseguridad defensiva**.
 
-**Eligek** es mi marca personal técnica: un espacio para aprender, documentar y compartir contenido educativo sobre sistemas, seguridad, servidores, laboratorios y crecimiento técnico.
+**Eligek** es mi marca personal tecnica: un espacio para aprender, documentar y compartir contenido educativo sobre sistemas, seguridad, laboratorios y crecimiento tecnico.
 
-Actualmente fortalezco mis habilidades en administración de entornos **Windows Server, Linux, VMware, Proxmox, Microsoft 365, Entra ID, Azure, Cloudflare, ESET, GLPI, Zabbix** y herramientas de seguridad. Mi enfoque es aprender con práctica real, documentación clara y laboratorios controlados.
+**Lo que hago**
+- Diseno laboratorios y documentacion clara sobre servidores, nube y seguridad.
+- Practico hardening, monitoreo y operacion defensiva con enfoque educativo.
+- Comparto rutas de aprendizaje, notas tecnicas y runbooks.
 
-Me interesa especialmente la ciberseguridad desde una visión defensiva y educativa: comprender cómo funcionan los sistemas, cómo pueden fallar, cómo protegerlos, cómo monitorearlos y cómo explicar ese aprendizaje de forma clara.
-
-```txt
-Focus:
-> IT Infrastructure
-> Junior Cybersecurity
-> Linux & Server Administration
-> Microsoft Cloud Administration
-> Monitoring & IT Operations
-> Technical Documentation
-> Educational Cybersecurity Content
-```
+**Ahora mismo**
+- Windows Server, Linux, VMware, Proxmox, Microsoft 365, Entra ID, Azure, Cloudflare.
+- Zabbix, GLPI, Grafana, inventario, tickets y documentacion operativa.
+- Fundamentos de ciberseguridad, MITRE, ISO 27001 y buenas practicas.
 
 ---
 
@@ -103,110 +98,119 @@ Focus:
 
 ## Tech Stack
 
-### Sistemas, servidores e infraestructura
+<details>
+  <summary><strong>Sistemas, servidores e infraestructura</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Windows%20Server-232E33?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+    <img src="https://img.shields.io/badge/Linux-101719?style=for-the-badge&logo=linux&logoColor=FCF8F4" alt="Linux" />
+    <img src="https://img.shields.io/badge/Ubuntu%20Server-617736?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+    <img src="https://img.shields.io/badge/VMware%20ESXi-232E33?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
+    <img src="https://img.shields.io/badge/vCenter-617736?style=for-the-badge&logo=vmware&logoColor=white" alt="vCenter" />
+    <img src="https://img.shields.io/badge/Proxmox-101719?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+    <img src="https://img.shields.io/badge/Hyper--V-8D9D6D?style=for-the-badge&logo=microsoft&logoColor=101719" alt="Hyper-V" />
+  </p>
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-232E33?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Linux-101719?style=for-the-badge&logo=linux&logoColor=FCF8F4" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-617736?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
-  <img src="https://img.shields.io/badge/VMware%20ESXi-232E33?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
-  <img src="https://img.shields.io/badge/vCenter-617736?style=for-the-badge&logo=vmware&logoColor=white" alt="vCenter" />
-  <img src="https://img.shields.io/badge/Proxmox-101719?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Hyper--V-8D9D6D?style=for-the-badge&logo=microsoft&logoColor=101719" alt="Hyper-V" />
-</p>
+<details>
+  <summary><strong>Microsoft Cloud y administracion</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Microsoft%20365-232E33?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
+    <img src="https://img.shields.io/badge/Entra%20ID-617736?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-101719?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+    <img src="https://img.shields.io/badge/Exchange%20Admin-232E33?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Exchange Admin" />
+    <img src="https://img.shields.io/badge/SharePoint-617736?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+    <img src="https://img.shields.io/badge/Teams-8D9D6D?style=for-the-badge&logo=microsoftteams&logoColor=101719" alt="Teams" />
+    <img src="https://img.shields.io/badge/Cloudflare-232E33?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  </p>
+</details>
 
-### Microsoft Cloud & administración
+<details>
+  <summary><strong>Ciberseguridad y operacion defensiva</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Junior%20Cybersecurity-101719?style=for-the-badge&logo=hackthebox&logoColor=FCF8F4" alt="Junior Cybersecurity" />
+    <img src="https://img.shields.io/badge/Hardening-232E33?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Hardening" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender-617736?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender" />
+    <img src="https://img.shields.io/badge/ESET%20Protect-232E33?style=for-the-badge&logo=eset&logoColor=white" alt="ESET Protect" />
+    <img src="https://img.shields.io/badge/Intune-617736?style=for-the-badge&logo=microsoftintune&logoColor=white" alt="Intune" />
+    <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-101719?style=for-the-badge&logo=matrix&logoColor=white" alt="MITRE ATT&CK" />
+    <img src="https://img.shields.io/badge/ISO%2027001-8D9D6D?style=for-the-badge&logo=readthedocs&logoColor=101719" alt="ISO 27001" />
+    <img src="https://img.shields.io/badge/TryHackMe-232E33?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/Kali%20%2F%20Parrot-617736?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali / Parrot" />
+  </p>
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20365-232E33?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Entra%20ID-617736?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-101719?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
-  <img src="https://img.shields.io/badge/Exchange%20Admin-232E33?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Exchange Admin" />
-  <img src="https://img.shields.io/badge/SharePoint-617736?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/Teams-8D9D6D?style=for-the-badge&logo=microsoftteams&logoColor=101719" alt="Teams" />
-  <img src="https://img.shields.io/badge/Cloudflare-232E33?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
+<details>
+  <summary><strong>Monitoreo, ITSM y documentacion</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/GLPI-617736?style=for-the-badge&logo=files&logoColor=white" alt="GLPI" />
+    <img src="https://img.shields.io/badge/Zabbix-232E33?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+    <img src="https://img.shields.io/badge/Grafana-101719?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    <img src="https://img.shields.io/badge/Wazuh%20Learning-8D9D6D?style=for-the-badge&logo=wazuh&logoColor=101719" alt="Wazuh Learning" />
+    <img src="https://img.shields.io/badge/Inventory-232E33?style=for-the-badge&logo=bookstack&logoColor=white" alt="Inventory" />
+    <img src="https://img.shields.io/badge/Ticketing-617736?style=for-the-badge&logo=gitbook&logoColor=white" alt="Ticketing" />
+    <img src="https://img.shields.io/badge/Runbooks-101719?style=for-the-badge&logo=markdown&logoColor=FCF8F4" alt="Runbooks" />
+  </p>
+</details>
 
-### Ciberseguridad y operación defensiva
+<details>
+  <summary><strong>Automatizacion, scripting y DevOps learning</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/PowerShell-232E33?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/Bash-617736?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/Python-101719?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Ansible%20Learning-232E33?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Learning" />
+    <img src="https://img.shields.io/badge/Docker%20Learning-617736?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Learning" />
+    <img src="https://img.shields.io/badge/Kubernetes%20Learning-101719?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Learning" />
+    <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-8D9D6D?style=for-the-badge&logo=git&logoColor=101719" alt="Git / GitHub" />
+  </p>
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Junior%20Cybersecurity-101719?style=for-the-badge&logo=hackthebox&logoColor=FCF8F4" alt="Junior Cybersecurity" />
-  <img src="https://img.shields.io/badge/Hardening-232E33?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Hardening" />
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-617736?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender" />
-  <img src="https://img.shields.io/badge/ESET%20Protect-232E33?style=for-the-badge&logo=eset&logoColor=white" alt="ESET Protect" />
-  <img src="https://img.shields.io/badge/Intune-617736?style=for-the-badge&logo=microsoftintune&logoColor=white" alt="Intune" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-101719?style=for-the-badge&logo=matrix&logoColor=white" alt="MITRE ATT&CK" />
-  <img src="https://img.shields.io/badge/ISO%2027001-8D9D6D?style=for-the-badge&logo=readthedocs&logoColor=101719" alt="ISO 27001" />
-  <img src="https://img.shields.io/badge/TryHackMe-232E33?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Kali%20%2F%20Parrot-617736?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali / Parrot" />
-</p>
-
-### Monitoreo, ITSM y documentación
-
-<p>
-  <img src="https://img.shields.io/badge/GLPI-617736?style=for-the-badge&logo=files&logoColor=white" alt="GLPI" />
-  <img src="https://img.shields.io/badge/Zabbix-232E33?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Grafana-101719?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Wazuh%20Learning-8D9D6D?style=for-the-badge&logo=wazuh&logoColor=101719" alt="Wazuh Learning" />
-  <img src="https://img.shields.io/badge/Inventory-232E33?style=for-the-badge&logo=bookstack&logoColor=white" alt="Inventory" />
-  <img src="https://img.shields.io/badge/Ticketing-617736?style=for-the-badge&logo=gitbook&logoColor=white" alt="Ticketing" />
-  <img src="https://img.shields.io/badge/Runbooks-101719?style=for-the-badge&logo=markdown&logoColor=FCF8F4" alt="Runbooks" />
-</p>
-
-### Automatización, scripting y DevOps learning
-
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-232E33?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-617736?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-101719?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ansible%20Learning-232E33?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Learning" />
-  <img src="https://img.shields.io/badge/Docker%20Learning-617736?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Learning" />
-  <img src="https://img.shields.io/badge/Kubernetes%20Learning-101719?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Learning" />
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-8D9D6D?style=for-the-badge&logo=git&logoColor=101719" alt="Git / GitHub" />
-</p>
-
-### Bases de datos, web y servicios
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-232E33?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-617736?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL / MariaDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-101719?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/IIS-232E33?style=for-the-badge&logo=microsoft&logoColor=white" alt="IIS" />
-  <img src="https://img.shields.io/badge/Nginx-617736?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-101719?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/FTP%20%2F%20SFTP-8D9D6D?style=for-the-badge&logo=files&logoColor=101719" alt="FTP / SFTP" />
-</p>
+<details>
+  <summary><strong>Bases de datos, web y servicios</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/SQL%20Server-232E33?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-617736?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL / MariaDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-101719?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/IIS-232E33?style=for-the-badge&logo=microsoft&logoColor=white" alt="IIS" />
+    <img src="https://img.shields.io/badge/Nginx-617736?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Apache-101719?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+    <img src="https://img.shields.io/badge/FTP%20%2F%20SFTP-8D9D6D?style=for-the-badge&logo=files&logoColor=101719" alt="FTP / SFTP" />
+  </p>
+</details>
 
 ---
 
-## Currently Learning
+## En aprendizaje
 
-<table>
-  <tr>
-    <td width="30%"><strong>Cybersecurity Fundamentals</strong></td>
-    <td>Estudiando fundamentos de ciberseguridad mediante cursos introductorios, laboratorios y documentación técnica.</td>
-  </tr>
-  <tr>
-    <td><strong>Kaspersky Learning Path</strong></td>
-    <td>Avanzando en cursos de nivel básico y fundamentos para reforzar conceptos defensivos y buenas prácticas.</td>
-  </tr>
-  <tr>
-    <td><strong>Microsoft Cloud & Security</strong></td>
-    <td>Construyendo una ruta hacia Azure, Entra ID, AZ-900 y SC-900.</td>
-  </tr>
-  <tr>
-    <td><strong>Networking Foundations</strong></td>
-    <td>Fortaleciendo bases para CCNA: routing, switching, segmentación, VPN y conceptos de red.</td>
-  </tr>
-  <tr>
-    <td><strong>Monitoring & IT Operations</strong></td>
-    <td>Mejorando habilidades en Zabbix, GLPI, Grafana, inventario, tickets y documentación operativa.</td>
-  </tr>
-  <tr>
-    <td><strong>Linux & Azure Administration</strong></td>
-    <td>Profundizando en administración de Linux, servicios, permisos, logs, Azure y Entra ID.</td>
-  </tr>
-</table>
+<details>
+  <summary><strong>Rutas y temas actuales</strong></summary>
+  <table>
+    <tr>
+      <td width="30%"><strong>Cybersecurity Fundamentals</strong></td>
+      <td>Estudiando fundamentos de ciberseguridad mediante cursos introductorios, laboratorios y documentacion tecnica.</td>
+    </tr>
+    <tr>
+      <td><strong>Kaspersky Learning Path</strong></td>
+      <td>Avanzando en cursos de nivel basico y fundamentos para reforzar conceptos defensivos y buenas practicas.</td>
+    </tr>
+    <tr>
+      <td><strong>Microsoft Cloud & Security</strong></td>
+      <td>Construyendo una ruta hacia Azure, Entra ID, AZ-900 y SC-900.</td>
+    </tr>
+    <tr>
+      <td><strong>Networking Foundations</strong></td>
+      <td>Fortaleciendo bases para CCNA: routing, switching, segmentacion, VPN y conceptos de red.</td>
+    </tr>
+    <tr>
+      <td><strong>Monitoring & IT Operations</strong></td>
+      <td>Mejorando habilidades en Zabbix, GLPI, Grafana, inventario, tickets y documentacion operativa.</td>
+    </tr>
+    <tr>
+      <td><strong>Linux & Azure Administration</strong></td>
+      <td>Profundizando en administracion de Linux, servicios, permisos, logs, Azure y Entra ID.</td>
+    </tr>
+  </table>
+</details>
 
 ---
 
